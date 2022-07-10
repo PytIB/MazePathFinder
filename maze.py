@@ -170,7 +170,7 @@ start_pos_y = 1
 showExplored = False
 dfs_on = True
 def open_file():
-    f = open("mazee.txt", "r")
+    f = open("MazePathFinder\mazee.txt", "r")
     
     for line in f:
         col = []
